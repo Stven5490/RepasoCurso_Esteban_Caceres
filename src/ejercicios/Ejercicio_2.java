@@ -1,5 +1,8 @@
 package ejercicios;
-
+/*
+Declara 2 variables numéricas (con el valor que desees), he indica cual es mayor de los dos.
+Si son iguales indicarlo también. Alterna los valores para comprobar que funcione.
+ */
 public class Ejercicio_2 {
     public static void main(String[] args) {
         int numero1 = 45;
