@@ -6,10 +6,8 @@ Imprimir por consola el segundo mes del año.
  */
 public class Ejercicio_3 {
     public static void main(String[] args) {
-        String[] Meses =
-                {
-                        "Enero", "Febrero", "Marzo",
-                        "Abril","Mayo"};
+        String[] Meses ={"Enero", "Febrero", "Marzo", "Abril", "Mayo"};
+
         int iLenght = Meses.length;
         String sEnero = Meses[0];
         String sFebrero = Meses[1];
