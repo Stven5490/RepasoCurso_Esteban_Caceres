@@ -1,5 +1,12 @@
 package ejercicios;
-
+/*
+Crear una variable de nombre “sueldoBruto” e inicialícela con el valor 1000000. Imprimir por consola:
+Sueldo bruto
+Descuento afp (7% del sueldo bruto)
+Descuento salud (10% del sueldo bruto)
+Descuento bono cesantía (1% del sueldo bruto)
+Sueldo liquido (sueldo bruto – descuentos)
+ */
 public class Ejercicio_9 {
     public static void main(String[] args) {
         int sueldoBruto = 1000000;;

@@ -1,7 +1,9 @@
 package ejercicios;
-
-import javax.annotation.processing.SupportedSourceVersion;
-import javax.sound.midi.SysexMessage;
+/*
+Declarar 2 variables (Base y Altura).
+Inicialice las variables y calcule el Área correspondiente en base a las variables
+declaradas sabiendo que Área = (Base*altura) /2
+ */
 
 public class Ejercicio_10 {
     public static void main(String[] args) {
