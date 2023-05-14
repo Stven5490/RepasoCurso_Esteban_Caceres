@@ -14,7 +14,7 @@ public class Persona {
             producto.disminuirStockEn1();
             return "Se realiza la compra correctamente";
         }else{
-            return "El saldo no es suficiente para la compra"
+            return "El saldo no es suficiente para la compra";
         }
     }
 }

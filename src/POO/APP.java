@@ -15,6 +15,6 @@ public class APP {
         prod1.nombre = "Papas Lays";
         prod1.stock = 10;
         prod1.precio = 800;
-        prod1.descripcion = "Papas Lays corte americano 30 grms.";x
+        prod1.descripcion = "Papas Lays corte americano 30 grms.";
     }
 }
